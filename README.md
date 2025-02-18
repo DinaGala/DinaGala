@@ -13,9 +13,10 @@ I'm passionate about building robust software solutions and analyzing data to dr
 
 
 ### 🛠️ Tech Stack
-- **Backend Development**: C/C++, Python (Django), JavaScript
+- **Backend  Development**: C/C++, Python (Django, REST APIs, )
+- **Frontend  Development**: JavaScript, THREE.js, HTML
 - **DevOps & Tools**: Docker, Nginx, Git, Linux
-- **Data Analysis**: Python (pandas, numpy, seaborn, etc), PostgreSQL, MS Excel, PowerBI
+- **Data Analysis**: Python (Pandas, NumPy, Seaborn, etc), PostgreSQL, MS Excel, PowerBI
 - **Collaboration**: Agile/SCRUM, Jira, Trello, Slack
 
 
