@@ -27,6 +27,7 @@ Here are some of the projects I’ve worked on:
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
+| [NPuzzle](https://github.com/DinaGala/N-PUZZLE) | Solution of an N-puzzle game using the A* search algorithm or one of its variants. | Python, Cython | 
 | [Transcendence](https://github.com/DinaGala/Transcendence-42Bcn) | A remote multiplayer Pong game with user profiles, tournaments and 3D graphics | Django, OAuth, JavaScript, Three.js, PostgreSQL, HTML, CSS | 
 | [42Form](https://github.com/DinaGala/42Form) | A web platform for Intra42 to create the questionnaires for the students, store and visualize the results. | Docker, Django, REST, OAuth, JavaScript, PostgreSQL, etc. | 
 | [Webserver](https://github.com/DinaGala/42_webserv) | An HTTP web server in C++ | C++, HTTP/1.1 |
