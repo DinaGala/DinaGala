@@ -27,7 +27,6 @@ Here are some of the projects I’ve worked on:
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-
 | [NPuzzle](https://github.com/DinaGala/N-PUZZLE) | Solution of an N-puzzle game using the A* search algorithm or one of its variants. | Python, Cython | 
 | [Computor-v1](https://github.com/DinaGala/computor-v1) | A program that solves polinomial second or lower degree equations. | Python | 
 | [Cloud-1](https://github.com/DinaGala/cloud-1) | Automated deployment of a web application on a remote server. | AWS, Docker, Ansible, Terraform |
