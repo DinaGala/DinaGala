@@ -13,9 +13,9 @@ I'm passionate about building robust software solutions and analyzing data to dr
 
 
 ### 🛠️ Tech Stack
-- **Backend  Development**: C/C++, Python (Django, REST APIs, )
+- **Backend  Development**: C/C++, Python (Django, REST APIs, channels)
 - **Frontend  Development**: JavaScript, THREE.js, HTML
-- **DevOps & Tools**: Docker, Nginx, Git, Linux
+- **DevOps & Tools**: AWS, Docker, Ansible, Terraform, Nginx, Git, Linux
 - **Data Analysis**: Python (Pandas, NumPy, Seaborn, etc), PostgreSQL, MS Excel, PowerBI
 - **Collaboration**: Agile/SCRUM, Jira, Trello, Slack
 
@@ -27,7 +27,10 @@ Here are some of the projects I’ve worked on:
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
+
 | [NPuzzle](https://github.com/DinaGala/N-PUZZLE) | Solution of an N-puzzle game using the A* search algorithm or one of its variants. | Python, Cython | 
+| [Computor-v1](https://github.com/DinaGala/computor-v1) | A program that solves polinomial second or lower degree equations. | Python | 
+| [Cloud-1](https://github.com/DinaGala/cloud-1) | Automated deployment of a web application on a remote server. | AWS, Docker, Ansible, Terraform |
 | [Transcendence](https://github.com/DinaGala/Transcendence-42Bcn) | A remote multiplayer Pong game with user profiles, tournaments and 3D graphics | Django, OAuth, JavaScript, Three.js, PostgreSQL, HTML, CSS | 
 | [42Form](https://github.com/DinaGala/42Form) | A web platform for Intra42 to create the questionnaires for the students, store and visualize the results. | Docker, Django, REST, OAuth, JavaScript, PostgreSQL, etc. | 
 | [Webserver](https://github.com/DinaGala/42_webserv) | An HTTP web server in C++ | C++, HTTP/1.1 |
@@ -52,7 +55,7 @@ Here’s a snapshot of my GitHub activity:
 ### 🌟 Achievements
 - **Top 3 Student** at my promotion 42 Barcelona (February 2023)
 - **3rd Place** at HackForGood Hackathon (May 2024)
-- **Participant** at NASA SpaceApps Hackathon (2023, 2024)
+- **Participant** at NASA SpaceApps Hackathon (2023, 2024, 2025)
 
 ---
 
